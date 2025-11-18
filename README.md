@@ -1,26 +1,27 @@
 # 👋 Hi there, I'm Viswonathan Manoranjan!
 
-🚀 **Software Developer @ Wells Fargo** | 🧠 **Machine Learning & Computer Vision Enthusiast**  
-📍 Based in Hyderabad, India  
-📫 [viswonathan0606@gmail.com](mailto:viswonathan0606@gmail.com)
+🎓 **M.S. in Computer Science @ UNC Chapel Hill** | 🧠 **Fairness-Aware ML & LLM Alignment Researcher**  
+📍 Chapel Hill, NC  
+📫 [vmanoran@cs.unc.edu](mailto:vmanoran@cs.unc.edu)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate software engineer with a strong background in AI research and full-stack development. I’ve contributed to impactful projects at institutions like NYU, King's College London, and Wells Fargo, where I blend my love for data-driven solutions with hands-on engineering skills.
+I'm a Master's student in Computer Science at UNC Chapel Hill, with a strong background in fairness-aware machine learning, bias mitigation, and large language model alignment. My research focuses on developing fair and robust ML systems, with particular emphasis on bias mitigation in personality computing and multi-modal learning.
 
-- 🎓 **Computer Science and Engineering Major**, Minor in Management Studies – NIT Trichy 2023
-- 🔬 Former **Undergraduate Research Assistant** at NYU AD – Focused on bias mitigation in personality computing and fairness in AI.
-- 🌱 Currently exploring the real-world applications of bias mitigation and Human Computer Interaction Systems across industries.
+- 🎓 **M.S. in Computer Science** – UNC Chapel Hill (2025-2027) | **B.S. in CSE** – NIT Tiruchirappalli (2019-2023)
+- 🔬 Former **Research Assistant** at NYU – Focused on bias mitigation in personality computing and fairness in multi-modal ML
+- 💼 Former **Software Engineer** at Wells Fargo – Built GenAI-powered tools and scalable microservices
 
 ---
 
-## 🏢 Work Experience
+## 🏢 Experience
 
+- **University of North Carolina at Chapel Hill** – *M.S. Student (Aug 2025 - May 2027)*
+- **Wells Fargo** – *Software Engineer (Aug 2023 - Jul 2025)*
+- **New York University** – *Research Assistant (May 2021 - Dec 2022)*
 
-- **Wells Fargo** – *Software Engineer (Aug 2023 - Present)*  
-- **New York University** – *Undergraduate Research Assistant (May 2021- Dec 2023)* 
 ---
 
 ## 🧪 Research & Publications
@@ -28,22 +29,19 @@ I'm a passionate software engineer with a strong background in AI research and f
 
 - **IEEE Transactions on Affective Computing (2024)**  
   *"Towards Generalised and Incremental Bias Mitigation in Personality Computing"*  
-  *Jian Jiang, Viswonathan Manoranjan, Hanan Salam, and Oya Celiktutan.*  
+  *Jian Jiang, Viswonathan Manoranjan, Hanan Salam, and Oya Celiktutan*
 
-- **AUTOMATA'23 – Cellular Automata and Discrete Complex Systems**  
+- **AUTOMATA'23**  
   *"Optimized Reversible Cellular Automata Based Clustering"*  
-  *Manoranjan, V., Sneha Rao, G., Vaidhianathan, S.V., Bhattacharjee, K.*  
-- **MRAC '23 – ACM**  
+  *Manoranjan, V., Sneha Rao, G., Vaidhianathan, S.V., Bhattacharjee, K.*
+
+- **ACM MM MRAC '23**  
   *"Generalised Bias Mitigation for Personality Computing"*  
-  *Jian Jiang, Viswonathan Manoranjan, Hanan Salam, and Oya Celiktutan.*  
+  *Jian Jiang, Viswonathan Manoranjan, Hanan Salam, and Oya Celiktutan*
 
 - **PMLR Vol. 173 (2022)**  
   *"Learning Personalised Models for Automatic Self-Reported Personality Recognition"*   
   *Hanan Salam, Viswonathan Manoranjan, Jian Jiang, Oya Celiktutan*
-
-- **ICCV 2021 Understanding Social Behavior in Dyadic and Small Group Interactions Challenge**  
-  *"Fact sheet: Automatic self-reported personality recognition track"*  
-  *H Salam, O Celiktutan, H Mukherjee, V Manoranjan, I Ismail*  
 
 ---
 
@@ -57,7 +55,7 @@ I'm a passionate software engineer with a strong background in AI research and f
 
 ## 💬 Let's Connect!
 
-- 📧 [Email](mailto:viswonathan0606@gmail.com)
+- 📧 [Email](mailto:vmanoran@cs.unc.edu)
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/viswonathan-manoranjan/)
 - 🧑‍🔬 [Google Scholar](https://scholar.google.com/citations?user=XNkK9V8AAAAJ&hl=en&oi=ao)
 - 💻 [GitHub](https://github.com/Viswonathan06)
