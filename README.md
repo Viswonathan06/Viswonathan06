@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-vmanoran%40cs.unc.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:vmanoran@cs.unc.edu)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=XNkK9V8AAAAJ&hl=en&oi=ao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswonathan-manoranjan/)
-[![Website](https://img.shields.io/badge/Website-viswonathan06.github.io-000000?style=flat-square&logo=githubpages&logoColor=white)]()
+[![Website](https://img.shields.io/badge/Website-viswonathan06.github.io-000000?style=flat-square&logo=githubpages&logoColor=white)](https://viswonathan06.github.io/)
 
 M.S. Computer Science · UNC Chapel Hill · Chapel Hill, NC
 
